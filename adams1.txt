@@ -1,0 +1,16 @@
+0 0 1
+1 0.811864 0.447669
+2 0.983367 -1.62189
+3 -1.6733 -4.34258
+4 -7.37622 33.0775
+5 44.4113 4.1432e+24
+6 6.2148e+24 -inf
+7 -inf -nan(ind)
+8 -nan(ind) -nan(ind)
+9 -nan(ind) -nan(ind)
+10 -nan(ind) -nan(ind)
+11 -nan(ind) -nan(ind)
+12 -nan(ind) -nan(ind)
+13 -nan(ind) -nan(ind)
+14 -nan(ind) -nan(ind)
+15 -nan(ind) -nan(ind)
